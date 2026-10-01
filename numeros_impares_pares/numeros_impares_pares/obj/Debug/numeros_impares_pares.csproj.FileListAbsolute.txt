@@ -1,0 +1,7 @@
+C:\Users\joao.vdsilva15\Documents\c#\numeros_impares_pares\numeros_impares_pares\bin\Debug\numeros_impares_pares.exe.config
+C:\Users\joao.vdsilva15\Documents\c#\numeros_impares_pares\numeros_impares_pares\bin\Debug\numeros_impares_pares.exe
+C:\Users\joao.vdsilva15\Documents\c#\numeros_impares_pares\numeros_impares_pares\bin\Debug\numeros_impares_pares.pdb
+C:\Users\joao.vdsilva15\Documents\c#\numeros_impares_pares\numeros_impares_pares\obj\Debug\numeros_impares_pares.csproj.AssemblyReference.cache
+C:\Users\joao.vdsilva15\Documents\c#\numeros_impares_pares\numeros_impares_pares\obj\Debug\numeros_impares_pares.csproj.CoreCompileInputs.cache
+C:\Users\joao.vdsilva15\Documents\c#\numeros_impares_pares\numeros_impares_pares\obj\Debug\numeros_impares_pares.exe
+C:\Users\joao.vdsilva15\Documents\c#\numeros_impares_pares\numeros_impares_pares\obj\Debug\numeros_impares_pares.pdb

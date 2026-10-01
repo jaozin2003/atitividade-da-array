@@ -1,0 +1,7 @@
+C:\Users\joao.vdsilva15\Documents\c#\temperaturas_diarias\temperaturas_diarias\bin\Debug\temperaturas_diarias.exe.config
+C:\Users\joao.vdsilva15\Documents\c#\temperaturas_diarias\temperaturas_diarias\bin\Debug\temperaturas_diarias.exe
+C:\Users\joao.vdsilva15\Documents\c#\temperaturas_diarias\temperaturas_diarias\bin\Debug\temperaturas_diarias.pdb
+C:\Users\joao.vdsilva15\Documents\c#\temperaturas_diarias\temperaturas_diarias\obj\Debug\temperaturas_diarias.csproj.AssemblyReference.cache
+C:\Users\joao.vdsilva15\Documents\c#\temperaturas_diarias\temperaturas_diarias\obj\Debug\temperaturas_diarias.csproj.CoreCompileInputs.cache
+C:\Users\joao.vdsilva15\Documents\c#\temperaturas_diarias\temperaturas_diarias\obj\Debug\temperaturas_diarias.exe
+C:\Users\joao.vdsilva15\Documents\c#\temperaturas_diarias\temperaturas_diarias\obj\Debug\temperaturas_diarias.pdb

@@ -1,0 +1,7 @@
+C:\Users\joao.vdsilva15\Documents\c#\gastos_clientes\gastos_clientes\bin\Debug\gastos_clientes.exe.config
+C:\Users\joao.vdsilva15\Documents\c#\gastos_clientes\gastos_clientes\bin\Debug\gastos_clientes.exe
+C:\Users\joao.vdsilva15\Documents\c#\gastos_clientes\gastos_clientes\bin\Debug\gastos_clientes.pdb
+C:\Users\joao.vdsilva15\Documents\c#\gastos_clientes\gastos_clientes\obj\Debug\gastos_clientes.csproj.AssemblyReference.cache
+C:\Users\joao.vdsilva15\Documents\c#\gastos_clientes\gastos_clientes\obj\Debug\gastos_clientes.csproj.CoreCompileInputs.cache
+C:\Users\joao.vdsilva15\Documents\c#\gastos_clientes\gastos_clientes\obj\Debug\gastos_clientes.exe
+C:\Users\joao.vdsilva15\Documents\c#\gastos_clientes\gastos_clientes\obj\Debug\gastos_clientes.pdb
